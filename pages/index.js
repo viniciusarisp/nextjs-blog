@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Estudante de computação | Programador web | JavaScript | Java | HTML & CSS | C]</p>
+        <p> Estudante de computação | Programador web | JavaScript | Java | HTML & CSS | C </p>
         <p>
           (Aprendendo {' '}
           <a href="https://nextjs.org/learn">Next.js</a>.)
